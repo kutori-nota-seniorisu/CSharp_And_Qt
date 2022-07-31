@@ -1,6 +1,0 @@
-E:\Visual Studio\ClassLibrary1\bin\Debug\ClassLibrary1.dll
-E:\Visual Studio\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
-E:\Visual Studio\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
-E:\Visual Studio\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
-E:\Visual Studio\ClassLibrary1\obj\Debug\ClassLibrary1.dll
-E:\Visual Studio\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
